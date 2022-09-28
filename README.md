@@ -1,5 +1,4 @@
-# K-Nearest-Neighbor
-Mini-project: k-NN
+# Mini-project: k-NN
 
 The goal is to implement the k-NN classiﬁer. The program should take 3 arguments:
 
